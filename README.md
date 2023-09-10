@@ -1,0 +1,2 @@
+# ReHarp
+ReSharper
